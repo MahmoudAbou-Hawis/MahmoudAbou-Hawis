@@ -47,7 +47,7 @@ like STM32 and **Raspberry Pi**, working with **C**, **C++**, **Python**, and **
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmoudAbou-Hawis&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmoudAbou-Hawis&show_icons=true&theme=radical&count_private=true&hide=prs&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAbou-Hawis&layout=compact&theme=radical)
 
 ---

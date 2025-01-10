@@ -54,7 +54,7 @@ like STM32 and **Raspberry Pi**, working with **C**, **C++**, **Python**, and **
 
 ## 📫 Contact Me
 
-- 🌐 **LinkedIn:** [Mahmoud Abou-Hawis](https://www.linkedin.com/in/your-link)  
+- 🌐 **LinkedIn:** [Mahmoud Abou-Hawis](https://www.linkedin.com/in/abou-hawis)  
 - 📹 **YouTube:** [MahmoudAbou-Hawis](https://www.youtube.com/@MahmoudAbou-Hawis)  
 - 📧 **Email:** [MahmoudAbou-Hawis](mailto:mahmoud.abohawis10@gmail.com)
 

@@ -52,7 +52,6 @@ I'm always eager to learn **new testing tools** and contribute to **open-source*
 ## 📫 Contact Me  
 
 - 🌐 **LinkedIn:** [Mahmoud Abou-Hawis](https://www.linkedin.com/in/abou-hawis)  
-- 📹 **YouTube:** [MahmoudAbou-Hawis](https://www.youtube.com/@MahmoudAbou-Hawis)  
 - 📧 **Email:** [MahmoudAbou-Hawis](mailto:mahmoud.abohawis10@gmail.com)  
 
 

@@ -16,8 +16,6 @@ I thrive on ensuring **software reliability, performance, and security** through
 I'm always eager to learn **new testing tools** and contribute to **open-source** projects that enhance software quality!  
 
 ---
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat)
----
 
 ## 🛠️ Skills & Tools  
 

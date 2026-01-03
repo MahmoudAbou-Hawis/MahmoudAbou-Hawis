@@ -30,7 +30,6 @@ I enjoy turning ideas into smooth mobile experiences and integrating Flutter app
 
 ### 🧪 Testing & Quality  
 ![Flutter Test](https://img.shields.io/badge/Flutter_Test-02569B?logo=flutter&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)  
 
 - Unit & widget testing  
 - API testing & debugging  
